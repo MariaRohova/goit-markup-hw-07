@@ -8,7 +8,7 @@
     align-items: center;
   }
   
-  .header_nav {
+  .header__nav {
     display: flex;
     align-items: center;
   }
@@ -83,9 +83,9 @@
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: var(--gray-color);
+    color: #757575;
   }
-  
+
   .contacts__link:nth-child(1) {
    margin-right: 30px ;
   }
